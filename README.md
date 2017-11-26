@@ -13,7 +13,7 @@
 
 ## Screenshot de Pinterest:
 
-![PINTEREST](assets/imgs/pinterest.gif)
+![PINTEREST](assets/imgs/pinterest.png)
 
 ***
 
