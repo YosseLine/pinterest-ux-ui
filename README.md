@@ -33,8 +33,8 @@
 
  - Diseño de los menús.
 
- -Colores del logo de la marca.
+ - Colores del logo de la marca.
 
  - Tipos de navegadores.
 
- -Bordes en las imágenes.
+ - Bordes en las imágenes.
